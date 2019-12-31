@@ -1,5 +1,4 @@
-
-
+hello jack
 spring.rabbitmq.host=localhost
 spring.rabbitmq.port=5672
 server.port=8882
